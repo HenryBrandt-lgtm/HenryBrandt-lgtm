@@ -1,8 +1,7 @@
 ## Hi there 👋
+🔭 I’m currently working on my degree in software developer .NET
+🌱 I’m currently learning about databases
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
 
 <!--
 **HenryBrandt-lgtm/HenryBrandt-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
