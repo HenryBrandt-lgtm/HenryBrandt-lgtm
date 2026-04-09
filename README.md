@@ -1,5 +1,7 @@
 ## Hi there 👋
+
 🔭 I’m currently working on my degree in software developer .NET
+
 🌱 I’m currently learning about databases
 
 
