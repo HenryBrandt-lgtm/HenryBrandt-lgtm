@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on my degree as software developer .NET
 
-🌱 I’m currently learning about Agile development
+🌱 Right now i’m learning about Agile development
 
 
 
